@@ -1,0 +1,68 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0%;
+    padding: 0%;
+    }
+    .deed{
+    float: right;
+    color:rgb(10, 108, 184);
+    margin-left: 8px;
+    }
+    #todo{
+    /* border: 2px solid red; */
+    width: 770px;
+    margin-left: auto;
+    margin-right: auto;
+    }
+    ul{
+    align-content: center;
+    }
+    li{
+    /* border: 2px solid red; */
+    align-content: center;
+    list-style: none;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 30px;
+    font-weight: bold;
+    background-color: rgb(216, 235, 253);
+    margin-top: 8px;
+    margin-bottom: 8px;
+    color: rgb(53, 51, 51);
+    padding-left: 5px;
+    padding-right: 5px;
+    }
+    #inp{
+    /* border: 2px solid blue; */
+    margin-left: 105px;
+    width: 565px;
+    font-size: 30px;
+    border: none;
+    padding-top: 13px;
+    border-bottom: 3px solid rgb(34, 139, 232);
+    /* border-bottom-color: */
+    margin-bottom: 20px;
+    text-align: center;
+    }
+    #lidiv{
+    border: 2px solid yellow;
+    }
+    #mainHeading{
+    font-size: 55px;
+    /* border: 2px solid blue; */
+    text-align: center;
+    margin-top: auto;
+    padding-bottom: 40px;
+    padding-top: 40px;
+    background-color: rgb(34, 139, 232);
+    color: white;
+    }
+    #plus{
+    font-size: 40px;
+    width: 30px;
+    color: rgb(10, 108, 184);
+    /* background-color: */
+    }
